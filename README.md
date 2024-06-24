@@ -1,2 +1,0 @@
-# AvaloniaTest
-AvaloniaTest
